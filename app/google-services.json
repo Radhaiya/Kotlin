@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162629518930",
+    "project_id": "loginpage-ed242",
+    "storage_bucket": "loginpage-ed242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162629518930:android:7f3e67a302f95ac98c018b",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162629518930-8vp1lbgkrac9jj8trlaa93oesq5674i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginapp",
+            "certificate_hash": "13df70e823937fc67def444136f25383d6e6cd70"
+          }
+        },
+        {
+          "client_id": "162629518930-33lvrqph7uvnll26pjuge0is6tsnak5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1XAs6_z86tGYAvvJxT-UlDn0h34j0tdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162629518930-33lvrqph7uvnll26pjuge0is6tsnak5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
